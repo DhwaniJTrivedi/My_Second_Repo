@@ -1,0 +1,59 @@
+.nav{
+    background-color: lightcoral;
+            padding: 10px;
+            text-align: center;
+    
+}
+.inner-div {
+    display: inline-block;
+    margin-right: 1px;
+    padding: 10px;
+    background-color: lightgrey;
+}
+.body_1{
+    width: 29%;
+float: left;
+height: 500px;
+background-color: blue;
+}
+.body_2{
+width: 70%;
+height: 500px;
+float: left;
+background-color: turquoise;
+}
+.nested_1{
+background-color: tomato;
+height: 29%;
+text-align: center;
+padding-top: 20px;
+}
+
+.nested_2{
+background-color: orange;
+height: 70%;
+}
+.first_item{
+    font-style: italic;
+    color: blueviolet;
+    font-size: 20px;
+    
+}
+#image{
+    float: left;
+}
+.right_1{
+    float: left;
+    padding: 20px;
+}
+.p{
+    font-weight: 100;
+    margin: 20px;
+}
+.heading{
+    text-align: center;
+}
+.right_2{
+    padding: 50px;
+    text-align: center;
+}
